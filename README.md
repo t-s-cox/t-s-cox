@@ -2,7 +2,7 @@
 this page is a listing of hackathon projects i've been a part of  
 for other information and such, check the resume link below  
 for more detail / code on the projects, click the title links
-feel free to reach out via email or linkedin!
+feel free to reach out via email or [linkedin](https://www.linkedin.com/in/tobyscox/)!
 
 resume: [view pdf](./Toby_Cox_Resume_October_2025.pdf) or [download](./Toby_Cox_Resume_October_2025.pdf?raw=true)
 
@@ -92,5 +92,6 @@ solves routing problems for fire trucks from depots to multiple destinations
 - libraries and frameworks: qasm, qiskit, quimb
 
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
