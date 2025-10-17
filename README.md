@@ -1,7 +1,8 @@
 # hey, i'm toby
 this page is a listing of hackathon projects i've been a part of  
 for other information and such, check the resume link below  
-for more detail / code on the projects, click the title links  
+for more detail / code on the projects, click the title links
+feel free to reach out via email or linkedin!
 
 resume: [view pdf](./Toby_Cox_Resume_October_2025.pdf) or [download](./Toby_Cox_Resume_October_2025.pdf?raw=true)
 
@@ -15,6 +16,28 @@ won 1st place in the "Best Musical Hack" challenge
 - language(s): python
 - libraries and frameworks: YOLO, MediaPipe, tkinter, threading
 - tags: computer vision, user experience, machine learning
+
+---
+
+### [NASA SpaceApps 2025](https://github.com/jacobldavis/astroaegis)
+meteor trajectory and impact simulator and visualizer  
+won "Most Inspirational Hack" at 3rd largest in-person US event
+
+**tech used:**
+- language(s): python, javascript, html, css, gdscript
+- libraries and frameworks: vue, tailwind, godot
+- tags: physics, simulation, visualization, meteor
+
+---
+
+### [QuantathonV2](https://github.com/jacobldavis/SCQuantum-SRNL-Challenge-2025)
+tornado intensity predictor, based on atmospheric data
+leverages quantum feature extraction to capture nonlinearity of predictors
+
+**tech used:**
+- language(s): python
+- libraries and frameworks: qiskit, pennylane, sklearn
+- tags: quantum computing, classification, data science, data analytics
 
 ---
 
@@ -69,4 +92,5 @@ solves routing problems for fire trucks from depots to multiple destinations
 - libraries and frameworks: qasm, qiskit, quimb
 
 - tags: quantum computing, benchmarking, quantum simulation
+
 
