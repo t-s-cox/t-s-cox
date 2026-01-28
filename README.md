@@ -4,7 +4,7 @@ for other information and such, check the resume link below
 for more detail / code on the projects, click the title links
 feel free to reach out via email or [linkedin](https://www.linkedin.com/in/tobyscox/)!
 
-resume: [view pdf](./Toby_Cox_Resume_October_2025.pdf) or [download](./Toby_Cox_Resume_October_2025.pdf?raw=true)
+resume: [view pdf](./Toby_Cox_Resume_January_2026.pdf) or [download](./Toby_Cox_Resume_January_2026.pdf?raw=true)
 
 ## projects
 
@@ -16,6 +16,16 @@ won 1st place in the "Best Musical Hack" challenge
 - language(s): python
 - libraries and frameworks: YOLO, MediaPipe, tkinter, threading
 - tags: computer vision, user experience, machine learning
+
+---
+
+### [HoyaHacks 2026](https://github.com/Quantiset/abacluster)
+real-time file monitoring system for HPC clusters, with an interactive dashboard and visualization
+won "Best Use of MongoDB"
+**tech used:**
+- language(s): python, javascript
+- libraries and frameworks: MongoDB, Vercel, Vue.js
+- tags: user experience, dashboard, monitoring, visualization, tracking, database
 
 ---
 
@@ -92,6 +102,7 @@ solves routing problems for fire trucks from depots to multiple destinations
 - libraries and frameworks: qasm, qiskit, quimb
 
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
 
