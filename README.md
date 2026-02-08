@@ -19,6 +19,17 @@ won 1st place in the "Best Musical Hack" challenge
 
 ---
 
+### [iQuHack 2026](https://github.com/AshtonMcEntarffer/PauliWantAQubit)
+(Quantum Rings Challenge) feature extraction from quantum circuits to predict simulation costs  
+won 2nd place in the Quantum Rings sponsored challenge  
+
+**tech used:**
+- language(s): python
+- libraries and frameworks: openqasm2, qiskit, pytorch
+- tags: feature extraction, quantum computing, benchmarking, quantum simulation
+
+---
+
 ### [HoyaHacks 2026](https://github.com/Quantiset/abacluster)
 real-time file monitoring system for HPC clusters, with an interactive dashboard and visualization  
 won "Best Use of MongoDB"
@@ -97,12 +108,11 @@ solves routing problems for fire trucks from depots to multiple destinations
 ### [YQuantum 2025](https://github.com/hazeltorek/how-did-we-ket-here)
 (BlueQubit Challenge) applying classical methods to benchmark quantum computing performance  
 
-
 **tech used:**
 - language(s): python, openqasm
 - libraries and frameworks: qasm, qiskit, quimb
-
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
 
