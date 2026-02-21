@@ -4,7 +4,7 @@ for other information and such, check the resume link below
 for more detail / code on the projects, click the title links  
 feel free to reach out via email or [linkedin](https://www.linkedin.com/in/tobyscox/)!
 
-resume: [view pdf](./Toby_Cox_Resume_January_2026.pdf) or [download](./Toby_Cox_Resume_January_2026.pdf?raw=true)
+resume: [view pdf](./Toby_Cox_Resume_February_2026.pdf) or [download](./Toby_Cox_Resume_February_2026.pdf?raw=true)
 
 ## projects
 
@@ -123,6 +123,7 @@ solves routing problems for fire trucks from depots to multiple destinations
 - language(s): python, openqasm
 - libraries and frameworks: qasm, qiskit, quimb
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
 
