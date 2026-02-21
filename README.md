@@ -53,7 +53,7 @@ won "Most Inspirational Hack" at 3rd largest in-person US event
 ---
 
 ### [QuantathonV2](https://github.com/jacobldavis/SCQuantum-SRNL-Challenge-2025)
-tornado intensity predictor, based on atmospheric data
+tornado intensity predictor, based on atmospheric data  
 leverages quantum feature extraction to capture nonlinearity of predictors
 
 **tech used:**
@@ -64,7 +64,7 @@ leverages quantum feature extraction to capture nonlinearity of predictors
 ---
 
 ### [UGA Hacks 11](https://github.com/jacobldavis/offkey)
-audio-based authentication system for usability
+audio-based authentication system for usability  
 uses l2 norms in fourier space, along with advanced deep learning models, to detect if an audio key matches an attempt
 
 **tech used:**
@@ -123,6 +123,7 @@ solves routing problems for fire trucks from depots to multiple destinations
 - language(s): python, openqasm
 - libraries and frameworks: qasm, qiskit, quimb
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
 
