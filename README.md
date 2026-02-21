@@ -63,6 +63,17 @@ leverages quantum feature extraction to capture nonlinearity of predictors
 
 ---
 
+### [UGA Hacks 11](https://github.com/jacobldavis/offkey)
+audio-based authentication system for usability
+uses l2 norms in fourier space, along with advanced deep learning models, to detect if an audio key matches an attempt
+
+**tech used:**
+- language(s): python, javascript
+- libraries and frameworks: django, pytorch
+- tags: authentication, usability, security, audio analysis
+
+---
+
 ### [HackGT 12](https://github.com/t-s-cox/fanalytics)
 sports information dashboard centered around real-time fan sentiment  
 uses fan sentiment as a measurement for momentum to inform predictions
@@ -112,6 +123,7 @@ solves routing problems for fire trucks from depots to multiple destinations
 - language(s): python, openqasm
 - libraries and frameworks: qasm, qiskit, quimb
 - tags: quantum computing, benchmarking, quantum simulation
+
 
 
 
